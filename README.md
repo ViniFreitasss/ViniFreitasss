@@ -11,7 +11,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="600px" style="background-color:#151515; border-radius:10px; padding:20px; color:#fff; font-family:sans-serif;">
+      <td width="600px" style="background-color:#151515; border-radius:15px; padding:20px; color:#fff; font-family:sans-serif;">
         <h4 align="center">🧠 Sobre Mim</h4>
         <p align="center">
           Olá! Me chamo Vinícius e estou trilhando o caminho para me tornar um desenvolvedor full-stack.<br>
@@ -40,7 +40,7 @@
 
   <!-- Card: Linguagens -->
   <div style="background-color:#151515; border-radius:10px; padding:10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFreitasss&theme=radical&layout=donut-vertical&langs_count=5"/>
+    <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFreitasss&theme=radical&layout=donut-vertical&langs_count=5"/>
   </div>
 
   <!-- Card: Streak -->
