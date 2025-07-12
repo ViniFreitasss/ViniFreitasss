@@ -36,11 +36,11 @@
 <!-- GRID 3: Estatísticas (em cards) -->
 <h4 align="center">📊 Estatísticas GitHub</h4>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: left; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- Card: Linguagens -->
   <div style="background-color:#151515; border-radius:10px; padding:10px;">
-    <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFreitasss&theme=radical&layout=donut-vertical&langs_count=5"/>
+    <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFreitasss&theme=radical&layout=donut-vertical&langs_count=5"/>
   </div>
 
   <!-- Card: Streak -->
