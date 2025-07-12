@@ -7,77 +7,52 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=380&height=45&lines=Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" />
 </p>
 
-<!-- Estilo para animação -->
-<style>
-  .fade-in {
-    opacity: 0;
-    transform: translateY(20px);
-    animation: fadeIn 1s ease-out forwards;
-  }
+<!-- GRID 1: Descrição da Stack -->
+<h4 align="center">🧠 Sobre Mim</h4>
 
-  .fade-delay-1 { animation-delay: 0.2s; }
-  .fade-delay-2 { animation-delay: 0.4s; }
-  .fade-delay-3 { animation-delay: 0.6s; }
+<p align="center" style="max-width: 600px; margin: auto;">
+  Olá! Me chamo Vinícius e estou trilhando o caminho para me tornar um desenvolvedor full-stack.  
+  Tenho experiência com automações usando Python e IA, desenvolvo interfaces com React/TypeScript e atualmente estudo React Native para lançar projetos mobile.  
+  Também tenho interesse por cloud computing (AWS), e busco construir soluções completas, com performance e usabilidade.
+</p>
 
-  @keyframes fadeIn {
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-</style>
+<!-- GRID 2: Tecnologias + Contato -->
+<div align="center" style="margin-top: 20px;">
 
-<!-- Grid dos gráficos -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 30px;">
+  <p><b>🧰 Tecnologias que uso</b></p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
+  </p>
 
-  <div class="fade-in fade-delay-1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniFreitasss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </div>
-
-  <div class="fade-in fade-delay-2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFreitasss&theme=radical&layout=donut-vertical&langs_count=5" />
-  </div>
-
-  <div class="fade-in fade-delay-3">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniFreitasss&theme=radical" />
-  </div>
+  <p><b>🌐 Contato</b></p>
+  <p>
+    <a href="mailto:seuemail@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/GMAIL-red?style=flat-square&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://linkedin.com/in/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+    </a>
+  </p>
 
 </div>
 
-<!-- Tecnologias -->
-<h4 align="center">💻 Tecnologias que uso</h4>
+<!-- GRID 3: Estatísticas -->
+<h4 align="center">📊 Estatísticas GitHub</h4>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 10px;">
 
-<!-- Contato -->
-<h4 align="center">🌐 Contato</h4>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniFreitasss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<p align="center">
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFreitasss&theme=radical&layout=donut-vertical&langs_count=5"/>
 
-<!-- Sobre -->
-<h4 align="center">🧠 Sobre Mim</h4>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniFreitasss&theme=radical" />
 
-<p align="center">
-  💡 Curioso por natureza e apaixonado por resolver problemas com código.  
-  <br/>
-  🎯 Buscando oportunidades para crescer como desenvolvedor full-stack.  
-  <br/>
-  🚀 No momento estudando: <strong>React Native, AWS, automações com IA</strong>.
-</p>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f5efb,100:fc466b&height=120&section=footer"/>
