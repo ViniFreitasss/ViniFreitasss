@@ -27,18 +27,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
 </p>
 
 ---
 
 ## 🌍 Redes Sociais
 
-<p align="center">
-  <a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/TWITCH-purple?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
