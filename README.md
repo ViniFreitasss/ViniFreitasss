@@ -1,4 +1,4 @@
-<!-- Banner ou imagem de destaque -->
+<!-- Banner de boas-vindas -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Olá,%20eu%20sou%20ViniFreitasss%20👋&fontSize=30&fontColor=ffffff" />
 </p>
@@ -9,16 +9,24 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+<h4 align="center">📊 Estatísticas GitHub</h4>
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniFreitasss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFreitasss&layout=compact&langs_count=10&theme=radical"/>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFreitasss&theme=radical&layout=donut-vertical&langs_count=5" />
+</p>
+
+<!-- Se quiser usar o gráfico exato da imagem, substitua a imagem abaixo pelo link da imagem do gráfico de linguagens exportado -->
+<!-- <p align="center">
+  <img src="CAMINHO_DA_SUA_IMAGEM_DE_LINGUAGENS.png" width="300"/>
+</p> -->
 
 ---
 
-## 💻 Linguagens e Tecnologias
+<h4 align="center">💻 Tecnologias que uso</h4>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -31,15 +39,20 @@
 
 ---
 
-## 🌍 Redes Sociais
+<h4 align="center">🌐 Contato</h4>
 
-  <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🗓️ Contribuições Recentes
+<h4 align="center">📆 Contribuições Recentes</h4>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniFreitasss&theme=radical" />
@@ -47,11 +60,11 @@
 
 ---
 
-## 🧠 Curiosidades
+<h4 align="center">🧠 Sobre Mim</h4>
 
-- 💡 Gosto de resolver problemas com código e criar soluções úteis.
-- 🎯 Estou focado em me tornar um desenvolvedor full-stack.
-- 🚀 Atualmente aprendendo: React Native, AWS e automações com IA.
+- 💡 Curioso por natureza e apaixonado por resolver problemas com código.  
+- 🎯 Buscando oportunidades para crescer como desenvolvedor full-stack.  
+- 🚀 No momento estudando: **React Native, AWS, automações com IA**.
 
 ---
 
