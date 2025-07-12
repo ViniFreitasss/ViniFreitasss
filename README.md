@@ -11,7 +11,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="600px" style="background-color:#151515; border-radius:30px; padding:20px; color:#fff; font-family:sans-serif;">
+      <td width="600px" style="background-color:#151515; border-radius:50px; padding:20px; color:#fff; font-family:sans-serif;">
         <h4 align="center">🧠 Sobre Mim</h4>
         <p align="center">
           Olá! Me chamo Vinícius e estou trilhando o caminho para me tornar um desenvolvedor full-stack.<br>
