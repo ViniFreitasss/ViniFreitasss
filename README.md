@@ -1,8 +1,6 @@
-## Hi i'm ViniFreitass, software engineer and RPA developer 
-
-<!-- Banner ou imagem de destaque opcional -->
+<!-- Banner ou imagem de destaque -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Olá,%20eu%20sou%20[Seu%20Nome]%20👋&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Olá,%20eu%20sou%20ViniFreitasss%20👋&fontSize=30&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -14,8 +12,8 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniFreitasss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFreitasss&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ---
@@ -37,12 +35,12 @@
 ## 🌍 Redes Sociais
 
 <p align="center">
-  <a href="https://youtube.com/SEU_CANAL" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://instagram.com/SEU_USER" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitch.tv/SEU_USER" target="_blank"><img src="https://img.shields.io/badge/TWITCH-purple?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://discord.gg/SEU_DISCORD" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:SEUEMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/TWITCH-purple?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -50,7 +48,7 @@
 ## 🗓️ Contribuições Recentes
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniFreitasss&theme=radical" />
 </p>
 
 ---
@@ -59,7 +57,7 @@
 
 - 💡 Gosto de resolver problemas com código e criar soluções úteis.
 - 🎯 Estou focado em me tornar um desenvolvedor full-stack.
-- 🚀 Atualmente aprendendo: **[Tecnologias que está aprendendo agora]**.
+- 🚀 Atualmente aprendendo: React Native, AWS e automações com IA.
 
 ---
 
