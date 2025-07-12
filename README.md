@@ -36,6 +36,7 @@
 <!-- GRID 3: Estatísticas (em cards) -->
 <h4 align="center">📊 Estatísticas GitHub</h4>
 
+
 <div align="center" style="display: left; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- Card: Linguagens -->
