@@ -44,10 +44,11 @@
     <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFreitasss&theme=radical&layout=donut-vertical&langs_count=5"/>
   </div>
 
-  <!-- Card: Streak -->
+  <!-- Card: Streak
   <div style="background-color:#151515; border-radius:10px; padding:10px;">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniFreitasss&theme=radical" />
   </div>
+  -->
 
 </div>
 
