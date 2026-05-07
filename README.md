@@ -14,9 +14,7 @@
       <td width="600px" style="background-color:#151515; border-radius:50px; padding:20px; color:#fff; font-family:sans-serif;">
         <h4 align="center">🧠 Sobre Mim</h4>
         <p align="center">
-          Olá! Me chamo Vinícius e estou trilhando o caminho para me tornar um desenvolvedor full-stack.<br>
-          Tenho experiência com automações usando Python e IA, desenvolvo interfaces com React/TypeScript e atualmente estudo React Native para lançar projetos mobile.<br>
-          Também tenho interesse por cloud computing (AWS) e busco construir soluções completas, com performance e usabilidade.
+          Olá! Me chamo Vinícius e estou trilhando o caminho para me tornar um enginheiro de dados com enfase em automação, possuo ampla experiência no densenvolvimento de RPA, mas gosto de pensar sobre mim como um desenvolvedor completo, tendo familiariadade com criação de aplicações mobile com React Native, Web com React, Desktop com Electron e até mesmo IOT com johnny-five, apesar da minha evidênte preferência aos ambientes de Node.js e DOM majoritariamente baseados em Javascript, tenho mais de 1 ano de experiencia na confecção de pipelines de dados utilizando python, SQL e as principais ferramentas de analise de dados da AWS como Glue, Athena, S3 e Quicksuite.
         </p>
         <br>
         <h5 align="center">🌐 Contato</h5>
