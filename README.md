@@ -14,7 +14,7 @@
       <td width="600px" style="background-color:#151515; border-radius:50px; padding:20px; color:#fff; font-family:sans-serif;">
         <h4 align="center">🧠 Sobre Mim</h4>
         <p align="center">
-          Olá! Me chamo Vinícius e estou trilhando o caminho para me tornar um enginheiro de dados com enfase em automação, possuo ampla experiência no densenvolvimento de RPA, mas gosto de pensar sobre mim como um desenvolvedor completo, tendo familiariadade com criação de aplicações mobile com React Native, Web com React, Desktop com Electron e até mesmo IOT com johnny-five, apesar da minha evidênte preferência aos ambientes de Node.js e DOM majoritariamente baseados em Javascript, tenho mais de 1 ano de experiencia na confecção de pipelines de dados utilizando python, SQL e as principais ferramentas de analise de dados da AWS como Glue, Athena, S3 e Quicksuite.
+          Olá! Me chamo Vinícius e estou trilhando o caminho para me tornar um engenheiro de dados com ênfase em automação. Possuo ampla experiência no desenvolvimento de RPA, mas gosto de pensar em mim como um desenvolvedor completo, tendo familiaridade com a criação de aplicações mobile com React Native, Web com React, Desktop com Electron e até mesmo IoT com Johnny-Five. Apesar da minha evidente preferência por ambientes Node.js e DOM, majoritariamente baseados em JavaScript, tenho mais de um ano de experiência na confecção de pipelines de dados utilizando Python, SQL e as principais ferramentas de análise de dados da AWS, como Glue, Athena, S3 e QuickSight.
         </p>
         <br>
         <h5 align="center">🌐 Contato</h5>
